@@ -1,0 +1,273 @@
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\bin\Debug\AnajPos.exe.config
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\bin\Debug\AnajPos.exe
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\bin\Debug\AnajPos.pdb
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\bin\Debug\AxShockwaveFlashObjects.dll
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\bin\Debug\CrystalDecisions.Shared.dll
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\bin\Debug\FlashControlV71.dll
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\bin\Debug\log4net.dll
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\bin\Debug\log4net.xml
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.CashBankReporting.frmViewExpense.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmCounterSaleOrPurchase2.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmCreateBankAccount.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmCreateCashAccount.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmCreateExpense.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmExpenseHead.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmInventoryTransfer.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmLedgers.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmProductStock.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmViewBank.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmViewStockLedger.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmCategory.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmCompany.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmUnit.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmCreateVendor.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmPayment.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmPurchaseInvoice.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmPurchaseInvoicePendingOrders.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmPurchaseReturn.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmPurchaseRollBack.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmReceiptToPaid.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmVendorAdjestment.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmVendorSelectLedger.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmViewPayment.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmViewPurchaseReturn.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmViewVendor.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmAboutUs.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmAddress.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmAdjustment.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmBackup.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmClosingCustomer.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmCreateCustomer.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmDashboard.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmGridLedger.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmHeadOfAcc.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmInvoice.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmProduct.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmReceipt.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmRestore.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmRollback.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmSaleReturn.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmSearchProduct.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmSelectCustomerLedger.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmTemplete.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmViewCustomer.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmViewOrder.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmViewReceipt.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmViewSaleReturn.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmZone.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmWarehouse.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.Properties.Resources.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.Reports.frmClosingLedger.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.Reports.frmCustomerOutstandingReport.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.Reports.frmGatePas.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.Reports.frmLedger.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.Reports.frmPrintInvoice.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.Reports.frmPrintReceiptUrdu.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.Reports.frmReceipt.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.Reports.frmViewLedgerUrduDefault.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.VendorReporting.frmPaymentVoucher.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.VendorReporting.frmPrintPurchaseInvoice.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.VendorReporting.frmPurchase.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.VendorReporting.frmVendorLedger.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.VendorReporting.frmVendorOutstandingReport.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.csproj.GenerateResource.cache
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.csproj.CoreCompileInputs.cache
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.csproj.CopyComplete
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.exe
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.pdb
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.csproj.AssemblyReference.cache
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.CashBankReporting.frmViewCounterReceipt.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.CashBankReporting.frmViewLedger.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmCounterSaleReturn.resources
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.csproj.SuggestedBindingRedirects.cache
+F:\AnajPosVendorVersion\Anaj Version 3\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmDispetchProduct.resources
+C:\AnajPos2\AnajPos\bin\Debug\AnajPos.exe.config
+C:\AnajPos2\AnajPos\bin\Debug\AnajPos.exe
+C:\AnajPos2\AnajPos\bin\Debug\AnajPos.pdb
+C:\AnajPos2\AnajPos\bin\Debug\AxShockwaveFlashObjects.dll
+C:\AnajPos2\AnajPos\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\AnajPos2\AnajPos\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\AnajPos2\AnajPos\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\AnajPos2\AnajPos\bin\Debug\CrystalDecisions.Shared.dll
+C:\AnajPos2\AnajPos\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\AnajPos2\AnajPos\bin\Debug\FlashControlV71.dll
+C:\AnajPos2\AnajPos\bin\Debug\log4net.dll
+C:\AnajPos2\AnajPos\bin\Debug\System.IO.FileSystem.dll
+C:\AnajPos2\AnajPos\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\AnajPos2\AnajPos\bin\Debug\log4net.xml
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.CashBankReporting.frmViewCounterReceipt.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.CashBankReporting.frmViewExpense.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.CashBankReporting.frmViewLedger.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmCounterSaleReturn.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmCounterSaleOrPurchase2.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmCreateBankAccount.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmCreateCashAccount.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmCreateExpense.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmExpenseHead.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmInventoryTransfer.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmLedgers.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmProductStock.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmViewBank.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmViewStockLedger.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmCategory.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmCompany.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmDispetchProduct.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmUnit.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmCreateVendor.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmPayment.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmPurchaseInvoice.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmPurchaseInvoicePendingOrders.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmPurchaseReturn.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmPurchaseRollBack.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmReceiptToPaid.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmVendorAdjestment.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmVendorSelectLedger.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmViewPayment.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmViewPurchaseReturn.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmViewVendor.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmAboutUs.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmAddress.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmAdjustment.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmBackup.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmClosingCustomer.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmCreateCustomer.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmDashboard.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmGridLedger.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmHeadOfAcc.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmInvoice.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmProduct.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmReceipt.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmRestore.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmRollback.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmSaleReturn.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmSearchProduct.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmSelectCustomerLedger.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmTemplete.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmViewCustomer.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmViewOrder.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmViewReceipt.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmViewSaleReturn.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmZone.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI.frmWarehouse.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.Properties.Resources.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.Reports.frmClosingLedger.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.Reports.frmCustomerOutstandingReport.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.Reports.frmGatePas.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.Reports.frmLedger.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.Reports.frmPrintInvoice.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.Reports.frmPrintReceiptUrdu.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.Reports.frmReceipt.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.Reports.frmViewLedgerUrduDefault.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.VendorReporting.frmPaymentVoucher.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.VendorReporting.frmPrintPurchaseInvoice.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.VendorReporting.frmPurchase.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.VendorReporting.frmVendorLedger.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.VendorReporting.frmVendorOutstandingReport.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.csproj.GenerateResource.cache
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.csproj.CoreCompileInputs.cache
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.csproj.CopyComplete
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.exe
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.pdb
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.CashBankReporting.frmViewStock.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.VendorReporting.frmPrintPaymentVoucher.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmStock.resources
+C:\AnajPos2\AnajPos\obj\Debug\AnajPos.csproj.AssemblyReference.cache
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\bin\Debug\AnajPos.exe.config
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\bin\Debug\AnajPos.exe
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\bin\Debug\AnajPos.pdb
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\bin\Debug\AxShockwaveFlashObjects.dll
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\bin\Debug\CrystalDecisions.Shared.dll
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\bin\Debug\FlashControlV71.dll
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\bin\Debug\log4net.dll
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\bin\Debug\System.IO.FileSystem.dll
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\bin\Debug\log4net.xml
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.CashBankReporting.frmViewCounterReceipt.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.CashBankReporting.frmViewExpense.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.CashBankReporting.frmViewLedger.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.CashBankReporting.frmViewStock.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmCounterSaleReturn.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmCounterSaleOrPurchase2.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmCreateBankAccount.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmCreateCashAccount.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmCreateExpense.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmExpenseHead.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmInventoryTransfer.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmLedgers.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmProductStock.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmStock.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmViewBank.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmViewStockLedger.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI.frmCategory.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI.frmCompany.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI.frmDispetchProduct.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmUnit.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmCreateVendor.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmPayment.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmPurchaseInvoice.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmPurchaseInvoicePendingOrders.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmPurchaseReturn.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmPurchaseRollBack.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmReceiptToPaid.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmVendorAdjestment.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmVendorSelectLedger.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmViewPayment.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmViewPurchaseReturn.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI_Vendor.frmViewVendor.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI.frmAboutUs.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI.frmAddress.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI.frmAdjustment.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI.frmBackup.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI.frmClosingCustomer.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI.frmCreateCustomer.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI.frmDashboard.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI.frmGridLedger.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI.frmHeadOfAcc.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI.frmInvoice.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI.frmProduct.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI.frmReceipt.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI.frmRestore.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI.frmRollback.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI.frmSaleReturn.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI.frmSearchProduct.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI.frmSelectCustomerLedger.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI.frmTemplete.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI.frmViewCustomer.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI.frmViewOrder.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI.frmViewReceipt.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI.frmViewSaleReturn.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI.frmZone.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI.frmWarehouse.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.Properties.Resources.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.Reports.frmClosingLedger.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.Reports.frmCustomerOutstandingReport.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.Reports.frmGatePas.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.Reports.frmLedger.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.Reports.frmPrintInvoice.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.Reports.frmPrintReceiptUrdu.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.Reports.frmReceipt.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.Reports.frmViewLedgerUrduDefault.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.VendorReporting.frmPaymentVoucher.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.VendorReporting.frmPrintPaymentVoucher.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.VendorReporting.frmPrintPurchaseInvoice.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.VendorReporting.frmPurchase.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.VendorReporting.frmVendorLedger.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.VendorReporting.frmVendorOutstandingReport.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.csproj.GenerateResource.cache
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.csproj.CoreCompileInputs.cache
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.csproj.CopyComplete
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.exe
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.pdb
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.GUI_Bank_Cash.frmViewPendingCounterSale.resources
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\bin\Debug\Bunifu.Licensing.dll
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.exe.licenses
+F:\NewAbTradFinal\NewAbGitVersion\AnajPos\obj\Debug\AnajPos.csproj.AssemblyReference.cache
