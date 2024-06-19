@@ -36,6 +36,8 @@
             this.createHeadOfAccountToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.createVendorAccountToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.createCashAccountToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.createRoleToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.createUsersToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.customerTransactionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.createInvoiceToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -150,7 +152,9 @@
             this.createProductToolStripMenuItem,
             this.createHeadOfAccountToolStripMenuItem,
             this.createVendorAccountToolStripMenuItem,
-            this.createCashAccountToolStripMenuItem});
+            this.createCashAccountToolStripMenuItem,
+            this.createRoleToolStripMenuItem,
+            this.createUsersToolStripMenuItem});
             this.createAccountToolStripMenuItem.Name = "createAccountToolStripMenuItem";
             this.createAccountToolStripMenuItem.Size = new System.Drawing.Size(101, 20);
             this.createAccountToolStripMenuItem.Text = "Create Account";
@@ -193,6 +197,22 @@
             this.createCashAccountToolStripMenuItem.Size = new System.Drawing.Size(237, 22);
             this.createCashAccountToolStripMenuItem.Text = "Create Cash Account";
             this.createCashAccountToolStripMenuItem.Click += new System.EventHandler(this.createCashAccountToolStripMenuItem_Click);
+            // 
+            // createRoleToolStripMenuItem
+            // 
+            this.createRoleToolStripMenuItem.Name = "createRoleToolStripMenuItem";
+            this.createRoleToolStripMenuItem.Size = new System.Drawing.Size(237, 22);
+            this.createRoleToolStripMenuItem.Text = "Create Role";
+            this.createRoleToolStripMenuItem.Visible = false;
+            this.createRoleToolStripMenuItem.Click += new System.EventHandler(this.createRoleToolStripMenuItem_Click);
+            // 
+            // createUsersToolStripMenuItem
+            // 
+            this.createUsersToolStripMenuItem.Name = "createUsersToolStripMenuItem";
+            this.createUsersToolStripMenuItem.Size = new System.Drawing.Size(237, 22);
+            this.createUsersToolStripMenuItem.Text = "Create Users";
+            this.createUsersToolStripMenuItem.Visible = false;
+            this.createUsersToolStripMenuItem.Click += new System.EventHandler(this.createUsersToolStripMenuItem_Click);
             // 
             // toolStripMenuItem1
             // 
@@ -442,21 +462,21 @@
             // counterSaleToolStripMenuItem
             // 
             this.counterSaleToolStripMenuItem.Name = "counterSaleToolStripMenuItem";
-            this.counterSaleToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.counterSaleToolStripMenuItem.Size = new System.Drawing.Size(179, 22);
             this.counterSaleToolStripMenuItem.Text = "Counter Sale";
             this.counterSaleToolStripMenuItem.Click += new System.EventHandler(this.counterSaleToolStripMenuItem_Click);
             // 
             // createExpenseToolStripMenuItem
             // 
             this.createExpenseToolStripMenuItem.Name = "createExpenseToolStripMenuItem";
-            this.createExpenseToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.createExpenseToolStripMenuItem.Size = new System.Drawing.Size(179, 22);
             this.createExpenseToolStripMenuItem.Text = "Create Expense";
             this.createExpenseToolStripMenuItem.Click += new System.EventHandler(this.createExpenseToolStripMenuItem_Click);
             // 
             // counterSaleReturnToolStripMenuItem
             // 
             this.counterSaleReturnToolStripMenuItem.Name = "counterSaleReturnToolStripMenuItem";
-            this.counterSaleReturnToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.counterSaleReturnToolStripMenuItem.Size = new System.Drawing.Size(179, 22);
             this.counterSaleReturnToolStripMenuItem.Text = "Counter Sale Return";
             this.counterSaleReturnToolStripMenuItem.Click += new System.EventHandler(this.counterSaleReturnToolStripMenuItem_Click);
             // 
@@ -991,5 +1011,7 @@
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.ToolStripMenuItem createRoleToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem createUsersToolStripMenuItem;
     }
 }

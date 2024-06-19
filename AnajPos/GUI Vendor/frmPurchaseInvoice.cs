@@ -153,7 +153,7 @@ namespace AnajPos.GUI_Vendor
         {
             using (SqlConnection conn = new SqlConnection(clsConnectionString.cs))
             {
-                string q = string.Format("select Qty,t.ProductName as Product,w.WarehouseName as 'Location',Kg,[Weight],Price,t.Amount,t.ProductId from tblProductTransactionVendor t inner join tblStock s on s.ProductTransId = t.PurchaseId and TransactionType = 'Purchase Invoice' and s.IsDeleted = 0 inner join tblWarehouse w on w.WarehouseId = s.WarehouseID where PurchaseId ={0}", Id);
+                string q = string.Format("select Qty,t.ProductName as Product,w.WarehouseName as 'Location',Kg,[Weight],Price,t.Amount,t.ProductId from tblProductTransactionVendor t inner join tblStock s on s.ProductTransId = t.PurchaseId and TransactionType = 'Purchase Invoice' and s.IsDeleted = 0 and s.ProductID = t.ProductId inner join tblWarehouse w on w.WarehouseId = s.WarehouseID where PurchaseId ={0}", Id);
                 SqlDataAdapter adpt = new SqlDataAdapter(q, conn);
                 DataTable dt = new DataTable();
                 adpt.Fill(dt);
@@ -355,7 +355,7 @@ namespace AnajPos.GUI_Vendor
             int Count = 0;
             for (int i = 0; i < dataGridView1.Rows.Count; i++)
             {
-                FinalCost = FinalCost + Convert.ToInt32(dataGridView1.Rows[i].Cells[5].Value);
+                FinalCost = FinalCost + Convert.ToInt32(dataGridView1.Rows[i].Cells["Amount"].Value);
                 Qty = Qty + Convert.ToInt32(dataGridView1.Rows[i].Cells[0].Value);
                 Count++;
             }

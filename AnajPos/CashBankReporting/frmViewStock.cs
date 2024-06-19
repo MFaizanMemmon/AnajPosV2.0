@@ -21,6 +21,7 @@ namespace AnajPos.CashBankReporting
 
         private void frmViewStock_Load(object sender, EventArgs e)
         {
+
             crptStockReport sr = new crptStockReport();
             sr.SetParameterValue("@WarehouseId",WarehouseId);
             crystalReportViewer1.ReportSource = null;

@@ -56,7 +56,7 @@ namespace AnajPos.GUI
             cmbFirstUnit.DataSource = dtFirstUnit;
             cmbFirstUnit.ValueMember = "UnitId";
             cmbFirstUnit.DisplayMember = "UnitName";
-            cmbFirstUnit.SelectedIndex = -1;
+            cmbFirstUnit.SelectedIndex = 1;
 
             DataTable dtSecondaryUnit = DlProduct.GetAllUnit();
             cmbSecondUnit.DataSource = dtSecondaryUnit;
@@ -213,18 +213,18 @@ namespace AnajPos.GUI
                 txtPackaging.Focus();
                 return false;
             }
-            else if (cmbStockLocation.SelectedIndex == -1)
-            {
-                MessageBox.Show("Please Enter Location...");
-                cmbStockLocation.Focus();
-                return false;
-            }
-            else if (txtStock.Text.Trim() == string.Empty)
-            {
-                MessageBox.Show("Please Enter Location...");
-                cmbStockLocation.Focus();
-                return false;
-            }
+            //else if (cmbStockLocation.SelectedIndex == -1)
+            //{
+            //    MessageBox.Show("Please Enter Location...");
+            //    cmbStockLocation.Focus();
+            //    return false;
+            //}
+            //else if (txtStock.Text.Trim() == string.Empty)
+            //{
+            //    MessageBox.Show("Please Enter Location...");
+            //    cmbStockLocation.Focus();
+            //    return false;
+            //}
             else if (txtPurchaseRate.Text.Trim() == string.Empty)
             {
                 MessageBox.Show("Please Enter Purchaes Rate...");
@@ -258,9 +258,9 @@ namespace AnajPos.GUI
                 BlProduct.Pakaging = int.Parse(txtPackaging.Text);
                 BlProduct.PurchaseRate = int.Parse(txtPurchaseRate.Text);
                 BlProduct.SaleRate = int.Parse(txtSaleRate.Text);
-                BlProduct.OpeningStock = int.Parse(txtStock.Text);
+                BlProduct.OpeningStock = 0;
                 BlProduct.Remark = string.Empty;
-                BlProduct.WarehouseId = (int)cmbStockLocation.SelectedValue;
+                BlProduct.WarehouseId = 1;
                 BlProduct.PurchaseUnitId = (int)cmbUnit.SelectedValue;
                 BlProduct.SaleUnitId = 0;
                 BlProduct.MeasurementProduct = int.Parse(txtHowMany.Text);
@@ -281,7 +281,7 @@ namespace AnajPos.GUI
         {
             using (SqlConnection conn=new SqlConnection(DAL.clsConnectionString.cs))
             {
-                string q = string.Format("select * from tblProduct where ProductName ='{0}' and WarehouseId = {1}", txtProductName.Text,cmbStockLocation.SelectedValue);
+                string q = string.Format("select * from tblProduct where ProductName ='{0}'", txtProductName.Text);
                 SqlDataAdapter adpt = new SqlDataAdapter(q, conn);
                 DataTable dt = new DataTable();
                 adpt.Fill(dt);
@@ -590,7 +590,7 @@ namespace AnajPos.GUI
 
         private void txtProductName_TextChanged(object sender, EventArgs e)
         {
-            txtProductNameUrdu.Text = txtProductName.Text;
+            //txtProductNameUrdu.Text = txtProductName.Text;
         }
     }
 }

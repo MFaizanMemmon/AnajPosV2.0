@@ -169,7 +169,6 @@ namespace AnajPos.GUI_Bank_Cash
             this.Controls.Add(this.dvgViewLedgers);
             this.Name = "frmLedgers";
             this.Text = "frmLedgers";
-            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.frmLedgers_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dvgViewLedgers)).EndInit();
             this.ResumeLayout(false);

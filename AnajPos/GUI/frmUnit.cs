@@ -74,6 +74,9 @@ namespace AnajPos.GUI_Bank_Cash
             }
         }
 
-        
+        private void frmUnit_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

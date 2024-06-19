@@ -79,10 +79,27 @@ namespace AnajPos.GUI_Bank_Cash
             dgvViewExpense.DataSource = dlExpense.ViewExpenseByDate(dtpExpenseSort.Value);
             dgvViewExpense.Columns[6].Visible = false;
             dgvViewExpense.Columns[7].Visible = false;
+            dgvViewExpense.Columns[0].Width = 50; // Set width for the 1st column
+            dgvViewExpense.Columns[1].Width = 120; // Set width for the 2nd column
+            dgvViewExpense.Columns[2].Width = 200; // Set width for the 3rd column
+            dgvViewExpense.Columns[3].Width = 200; // Set width for the 3rd column
+            dgvViewExpense.Columns["Notes"].AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
+            dgvViewExpense.Columns["Amount"].Width = 120;
+
 
             cmbExpenseType.SelectedValueChanged -= new EventHandler(cmbExpenseType_SelectedValueChanged);
             DataTable dtView = dlCoa.ViewChartOfAccountParenttID(2);
-            cmbExpenseType.DataSource = dtView;
+            DataRow[] filteredRows = dtView.Select("accountid <> 1041");
+
+            // If you want to create a new DataTable with the filtered rows
+            DataTable filteredDataTable = dtView.Clone(); // Clone the structure of the original DataTable
+
+            foreach (DataRow row in filteredRows)
+            {
+                filteredDataTable.ImportRow(row); // Import the filtered rows into the new DataTable
+            }
+
+            cmbExpenseType.DataSource = filteredDataTable;
             cmbExpenseType.ValueMember = "AccountId";
             cmbExpenseType.DisplayMember = "AccountName";
             cmbExpenseType.SelectedIndex = -1;
@@ -95,7 +112,7 @@ namespace AnajPos.GUI_Bank_Cash
             cmbPaymentMode.DisplayMember = "AccountName";
             cmbPaymentMode.SelectedIndex = -1;
 
-
+            GetTotal();
         }
         private void GetTotal()
         {
@@ -106,8 +123,8 @@ namespace AnajPos.GUI_Bank_Cash
                 FinalCost = FinalCost + Convert.ToInt32(dgvViewExpense.Rows[i].Cells["Amount"].Value);
                 
             }
-            
-            txttotal.Text = FinalCost.ToString();
+
+            txtTotalExp.Text = FinalCost.ToString();
         }
 
         private void cmbExpenseType_SelectedValueChanged(object sender, EventArgs e)

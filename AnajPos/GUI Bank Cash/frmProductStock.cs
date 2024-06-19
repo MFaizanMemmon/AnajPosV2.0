@@ -85,9 +85,17 @@ namespace AnajPos.GUI_Bank_Cash
         {
             if (cmbLocation.SelectedIndex != -1)
             {
-                frmViewStock vs = new frmViewStock();
-                vs.WarehouseId = (int)cmbLocation.SelectedIndex;
-                vs.ShowDialog();
+                if (cmbLocation.SelectedIndex == 0)
+                {
+
+                }
+                else
+                {
+
+                    frmViewStock vs = new frmViewStock();
+                    vs.WarehouseId = (int)cmbLocation.SelectedIndex;
+                    vs.ShowDialog();
+                }
             }
         }
     }

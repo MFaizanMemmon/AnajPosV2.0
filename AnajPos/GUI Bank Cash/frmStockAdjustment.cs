@@ -17,7 +17,7 @@ using System.Windows.Forms;
 
 namespace AnajPos.GUI_Bank_Cash
 {
-    public partial class frmStock : frmTemplete
+    public partial class frmStockAdjustment : frmTemplete
     {
         clsBlChartOfAccounts blCoa = new clsBlChartOfAccounts();
         clsChartOfAccount dlCoa = new clsChartOfAccount();
@@ -26,7 +26,7 @@ namespace AnajPos.GUI_Bank_Cash
         clsStock DlStock = new clsStock();
         clsBlStock BlStock = new clsBlStock();
 
-        public frmStock()
+        public frmStockAdjustment()
         {
             InitializeComponent();
         }

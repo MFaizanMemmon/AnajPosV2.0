@@ -1,6 +1,6 @@
 ﻿namespace AnajPos.GUI_Bank_Cash
 {
-    partial class frmStock
+    partial class frmStockAdjustment
     {
         /// <summary>
         /// Required designer variable.
@@ -232,7 +232,7 @@
             this.Controls.Add(this.stock_GV);
             this.Controls.Add(this.groupBox1);
             this.Name = "frmStock";
-            this.Text = "Create Cash Account";
+            this.Text = "Stock Adjustment";
             this.Load += new System.EventHandler(this.frmStock_Load);
             ((System.ComponentModel.ISupportInitialize)(this.stock_GV)).EndInit();
             this.groupBox1.ResumeLayout(false);

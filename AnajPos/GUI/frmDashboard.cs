@@ -13,7 +13,9 @@ using AnajPos.DAL;
 using AnajPos.GUI;
 using AnajPos.GUI_Bank_Cash;
 using AnajPos.GUI_Vendor;
+using AnajPos.GUIUsers;
 using AnajPos.Reports;
+using AnajPos.Users;
 using AnajPos.VendorReporting;
 
 
@@ -516,7 +518,7 @@ namespace AnajPos.GUI
 
         private void toolStripMenuItem9_Click(object sender, EventArgs e)
         {
-            frmStock s = new frmStock();
+            frmStockAdjustment s = new frmStockAdjustment();
             s.ShowDialog();
         }
 
@@ -529,6 +531,18 @@ namespace AnajPos.GUI
         {
             frmCounterSaleOrPurchase2 cs = new frmCounterSaleOrPurchase2();
             cs.ShowDialog();
+        }
+
+        private void createRoleToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmRoles role = new frmRoles();
+            role.ShowDialog();
+        }
+
+        private void createUsersToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmUsers fr = new FrmUsers();
+            fr.ShowDialog();
         }
     }
 }

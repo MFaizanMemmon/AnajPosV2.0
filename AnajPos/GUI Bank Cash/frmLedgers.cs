@@ -81,17 +81,21 @@ namespace AnajPos.GUI_Bank_Cash
             if (cmbChartOfAccounts.SelectedIndex != -1)
             {
                 dvgViewLedgers.DataSource = dLAccount.GetLedgers((int)cmbChartOfAccounts.SelectedValue, (string)dptStartDate.Text, (string)dptEndDate.Text);
-
             }
 
-            //dvgViewLedgers.Columns["SNO"].HeaderText = "No";
-            //dvgViewLedgers.Columns["TranDate"].HeaderText = "Date";
+            dvgViewLedgers.Columns["SNO"].HeaderText = "No";
+            dvgViewLedgers.Columns["TranDate"].HeaderText = "Date";
             //dvgViewLedgers.Columns["Price"].HeaderText = "ColumnPrice";
 
             //// Set column widths
-            //dvgViewLedgers.Columns["ID"].Width = 50;  // Set the width in pixels
-            //dvgViewLedgers.Columns["Name"].Width = 150; // Set the width in pixels
-            //dvgViewLedgers.Columns["Price"].Width = 80; // Set the width in pixels
+            dvgViewLedgers.Columns[0].Width = 50;  // Set the width in pixels
+            dvgViewLedgers.Columns[1].Width = 100; // Set the width in pixels
+            dvgViewLedgers.Columns[2].Width = 80; // Set the width in pixels
+            dvgViewLedgers.Columns[3].Width = 300; // Set the width in pixels
+            dvgViewLedgers.Columns[4].Width = 250; // Set the width in pixels
+            dvgViewLedgers.Columns[5].Width = 80; // Set the width in pixels
+            dvgViewLedgers.Columns[6].Width = 80; // Set the width in pixels
+            dvgViewLedgers.Columns[7].Width = 120; // Set the width in pixels
         }
 
         private void btnPrintInvoice_Click(object sender, EventArgs e)

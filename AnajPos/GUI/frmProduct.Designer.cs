@@ -80,10 +80,10 @@
             this.cmbStockLocation = new System.Windows.Forms.ComboBox();
             this.label13 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.cmbUnit = new System.Windows.Forms.ComboBox();
-            this.label6 = new System.Windows.Forms.Label();
-            this.txtPackaging = new System.Windows.Forms.TextBox();
             this.label15 = new System.Windows.Forms.Label();
+            this.txtPackaging = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.cmbUnit = new System.Windows.Forms.ComboBox();
             this.groupBox1.SuspendLayout();
             this.menuStrip1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -93,7 +93,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Location = new System.Drawing.Point(2, 98);
+            this.label1.Location = new System.Drawing.Point(8, 67);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(77, 20);
             this.label1.TabIndex = 0;
@@ -101,16 +101,16 @@
             // 
             // txtProductID
             // 
-            this.txtProductID.Location = new System.Drawing.Point(108, 91);
+            this.txtProductID.Location = new System.Drawing.Point(115, 64);
             this.txtProductID.Name = "txtProductID";
-            this.txtProductID.Size = new System.Drawing.Size(115, 27);
+            this.txtProductID.Size = new System.Drawing.Size(153, 27);
             this.txtProductID.TabIndex = 1;
             // 
             // txtProductName
             // 
-            this.txtProductName.Location = new System.Drawing.Point(422, 91);
+            this.txtProductName.Location = new System.Drawing.Point(401, 60);
             this.txtProductName.Name = "txtProductName";
-            this.txtProductName.Size = new System.Drawing.Size(169, 27);
+            this.txtProductName.Size = new System.Drawing.Size(196, 27);
             this.txtProductName.TabIndex = 1;
             this.txtProductName.TextChanged += new System.EventHandler(this.txtProductName_TextChanged);
             this.txtProductName.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtProductName_KeyDown);
@@ -119,7 +119,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.Color.Transparent;
-            this.label2.Location = new System.Drawing.Point(311, 102);
+            this.label2.Location = new System.Drawing.Point(291, 63);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(104, 20);
             this.label2.TabIndex = 2;
@@ -128,11 +128,10 @@
             // txtProductNameUrdu
             // 
             this.txtProductNameUrdu.Font = new System.Drawing.Font("Jameel Noori Nastaleeq", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtProductNameUrdu.Location = new System.Drawing.Point(108, 33);
+            this.txtProductNameUrdu.Location = new System.Drawing.Point(115, 144);
             this.txtProductNameUrdu.Name = "txtProductNameUrdu";
             this.txtProductNameUrdu.Size = new System.Drawing.Size(482, 40);
             this.txtProductNameUrdu.TabIndex = 2;
-            this.txtProductNameUrdu.Visible = false;
             this.txtProductNameUrdu.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtProductName_KeyDown);
             // 
             // label3
@@ -140,12 +139,11 @@
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.Color.Transparent;
             this.label3.Font = new System.Drawing.Font("Jameel Noori Nastaleeq", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(-2, 38);
+            this.label3.Location = new System.Drawing.Point(6, 144);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(84, 35);
             this.label3.TabIndex = 4;
             this.label3.Text = "پروڈکٹ کا نام";
-            this.label3.Visible = false;
             // 
             // label4
             // 
@@ -193,7 +191,7 @@
             // 
             // txtPurchaseRate
             // 
-            this.txtPurchaseRate.Location = new System.Drawing.Point(115, 305);
+            this.txtPurchaseRate.Location = new System.Drawing.Point(115, 301);
             this.txtPurchaseRate.Name = "txtPurchaseRate";
             this.txtPurchaseRate.Size = new System.Drawing.Size(190, 27);
             this.txtPurchaseRate.TabIndex = 7;
@@ -205,7 +203,7 @@
             // 
             this.label7.AutoSize = true;
             this.label7.BackColor = System.Drawing.Color.Transparent;
-            this.label7.Location = new System.Drawing.Point(9, 308);
+            this.label7.Location = new System.Drawing.Point(8, 305);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(101, 20);
             this.label7.TabIndex = 15;
@@ -213,9 +211,9 @@
             // 
             // txtSaleRate
             // 
-            this.txtSaleRate.Location = new System.Drawing.Point(428, 305);
+            this.txtSaleRate.Location = new System.Drawing.Point(401, 305);
             this.txtSaleRate.Name = "txtSaleRate";
-            this.txtSaleRate.Size = new System.Drawing.Size(169, 27);
+            this.txtSaleRate.Size = new System.Drawing.Size(196, 27);
             this.txtSaleRate.TabIndex = 8;
             this.txtSaleRate.Text = "0";
             this.txtSaleRate.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtProductName_KeyDown);
@@ -225,7 +223,7 @@
             // 
             this.label8.AutoSize = true;
             this.label8.BackColor = System.Drawing.Color.Transparent;
-            this.label8.Location = new System.Drawing.Point(351, 316);
+            this.label8.Location = new System.Drawing.Point(324, 308);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(71, 20);
             this.label8.TabIndex = 17;
@@ -233,9 +231,9 @@
             // 
             // txtStock
             // 
-            this.txtStock.Location = new System.Drawing.Point(428, 238);
+            this.txtStock.Location = new System.Drawing.Point(327, 179);
             this.txtStock.Name = "txtStock";
-            this.txtStock.Size = new System.Drawing.Size(169, 27);
+            this.txtStock.Size = new System.Drawing.Size(19, 27);
             this.txtStock.TabIndex = 6;
             this.txtStock.Text = "0";
             this.txtStock.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtProductName_KeyDown);
@@ -245,7 +243,7 @@
             // 
             this.label9.AutoSize = true;
             this.label9.BackColor = System.Drawing.Color.Transparent;
-            this.label9.Location = new System.Drawing.Point(377, 240);
+            this.label9.Location = new System.Drawing.Point(265, 186);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(45, 20);
             this.label9.TabIndex = 19;
@@ -472,7 +470,6 @@
             this.addUnitToolStripMenuItem.Name = "addUnitToolStripMenuItem";
             this.addUnitToolStripMenuItem.Size = new System.Drawing.Size(158, 22);
             this.addUnitToolStripMenuItem.Text = "Add Unit";
-            this.addUnitToolStripMenuItem.Visible = false;
             this.addUnitToolStripMenuItem.Click += new System.EventHandler(this.addUnitToolStripMenuItem_Click);
             // 
             // lblLast
@@ -513,9 +510,9 @@
             this.cmbSecondUnit.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbSecondUnit.Enabled = false;
             this.cmbSecondUnit.FormattingEnabled = true;
-            this.cmbSecondUnit.Location = new System.Drawing.Point(6, 121);
+            this.cmbSecondUnit.Location = new System.Drawing.Point(238, 46);
             this.cmbSecondUnit.Name = "cmbSecondUnit";
-            this.cmbSecondUnit.Size = new System.Drawing.Size(173, 28);
+            this.cmbSecondUnit.Size = new System.Drawing.Size(123, 28);
             this.cmbSecondUnit.TabIndex = 29;
             this.cmbSecondUnit.SelectedIndexChanged += new System.EventHandler(this.cmbSecondUnit_SelectedIndexChanged);
             // 
@@ -524,7 +521,7 @@
             this.cmbFirstUnit.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbFirstUnit.Enabled = false;
             this.cmbFirstUnit.FormattingEnabled = true;
-            this.cmbFirstUnit.Location = new System.Drawing.Point(6, 46);
+            this.cmbFirstUnit.Location = new System.Drawing.Point(10, 100);
             this.cmbFirstUnit.Name = "cmbFirstUnit";
             this.cmbFirstUnit.Size = new System.Drawing.Size(169, 28);
             this.cmbFirstUnit.TabIndex = 28;
@@ -534,7 +531,7 @@
             // 
             this.label11.AutoSize = true;
             this.label11.BackColor = System.Drawing.Color.Transparent;
-            this.label11.Location = new System.Drawing.Point(6, 98);
+            this.label11.Location = new System.Drawing.Point(276, 16);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(85, 20);
             this.label11.TabIndex = 31;
@@ -544,7 +541,7 @@
             // 
             this.label12.AutoSize = true;
             this.label12.BackColor = System.Drawing.Color.Transparent;
-            this.label12.Location = new System.Drawing.Point(6, 23);
+            this.label12.Location = new System.Drawing.Point(6, 77);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(119, 20);
             this.label12.TabIndex = 30;
@@ -554,7 +551,7 @@
             // 
             this.label10.AutoSize = true;
             this.label10.BackColor = System.Drawing.Color.Transparent;
-            this.label10.Location = new System.Drawing.Point(255, 25);
+            this.label10.Location = new System.Drawing.Point(16, 141);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(80, 20);
             this.label10.TabIndex = 22;
@@ -564,7 +561,7 @@
             // 
             this.lblSecondaryUnit.AutoSize = true;
             this.lblSecondaryUnit.BackColor = System.Drawing.Color.Transparent;
-            this.lblSecondaryUnit.Location = new System.Drawing.Point(255, 45);
+            this.lblSecondaryUnit.Location = new System.Drawing.Point(102, 141);
             this.lblSecondaryUnit.Name = "lblSecondaryUnit";
             this.lblSecondaryUnit.Size = new System.Drawing.Size(18, 20);
             this.lblSecondaryUnit.TabIndex = 32;
@@ -574,7 +571,7 @@
             // 
             this.label14.AutoSize = true;
             this.label14.BackColor = System.Drawing.Color.Transparent;
-            this.label14.Location = new System.Drawing.Point(255, 68);
+            this.label14.Location = new System.Drawing.Point(16, 172);
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(52, 20);
             this.label14.TabIndex = 33;
@@ -584,7 +581,7 @@
             // 
             this.lblFirstUnit.AutoSize = true;
             this.lblFirstUnit.BackColor = System.Drawing.Color.Transparent;
-            this.lblFirstUnit.Location = new System.Drawing.Point(255, 89);
+            this.lblFirstUnit.Location = new System.Drawing.Point(102, 172);
             this.lblFirstUnit.Name = "lblFirstUnit";
             this.lblFirstUnit.Size = new System.Drawing.Size(18, 20);
             this.lblFirstUnit.TabIndex = 34;
@@ -593,9 +590,9 @@
             // txtHowMany
             // 
             this.txtHowMany.Enabled = false;
-            this.txtHowMany.Location = new System.Drawing.Point(259, 112);
+            this.txtHowMany.Location = new System.Drawing.Point(142, 156);
             this.txtHowMany.Name = "txtHowMany";
-            this.txtHowMany.Size = new System.Drawing.Size(102, 27);
+            this.txtHowMany.Size = new System.Drawing.Size(164, 27);
             this.txtHowMany.TabIndex = 35;
             this.txtHowMany.Text = "0";
             // 
@@ -603,9 +600,9 @@
             // 
             this.cmbStockLocation.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbStockLocation.FormattingEnabled = true;
-            this.cmbStockLocation.Location = new System.Drawing.Point(115, 232);
+            this.cmbStockLocation.Location = new System.Drawing.Point(316, 222);
             this.cmbStockLocation.Name = "cmbStockLocation";
-            this.cmbStockLocation.Size = new System.Drawing.Size(190, 28);
+            this.cmbStockLocation.Size = new System.Drawing.Size(30, 28);
             this.cmbStockLocation.TabIndex = 5;
             this.cmbStockLocation.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtProductName_KeyDown);
             // 
@@ -613,7 +610,7 @@
             // 
             this.label13.AutoSize = true;
             this.label13.BackColor = System.Drawing.Color.Transparent;
-            this.label13.Location = new System.Drawing.Point(9, 245);
+            this.label13.Location = new System.Drawing.Point(244, 230);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(66, 20);
             this.label13.TabIndex = 37;
@@ -623,14 +620,18 @@
             // 
             this.groupBox2.BackColor = System.Drawing.Color.Transparent;
             this.groupBox2.Controls.Add(this.txtHowMany);
-            this.groupBox2.Controls.Add(this.label10);
             this.groupBox2.Controls.Add(this.lblSecondaryUnit);
+            this.groupBox2.Controls.Add(this.label10);
             this.groupBox2.Controls.Add(this.label12);
+            this.groupBox2.Controls.Add(this.cmbStockLocation);
+            this.groupBox2.Controls.Add(this.lblFirstUnit);
+            this.groupBox2.Controls.Add(this.label13);
+            this.groupBox2.Controls.Add(this.label14);
+            this.groupBox2.Controls.Add(this.txtStock);
             this.groupBox2.Controls.Add(this.cmbFirstUnit);
+            this.groupBox2.Controls.Add(this.label9);
             this.groupBox2.Controls.Add(this.cmbSecondUnit);
             this.groupBox2.Controls.Add(this.label11);
-            this.groupBox2.Controls.Add(this.lblFirstUnit);
-            this.groupBox2.Controls.Add(this.label14);
             this.groupBox2.Location = new System.Drawing.Point(676, 44);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(367, 270);
@@ -639,45 +640,45 @@
             this.groupBox2.Text = "Inventory";
             this.groupBox2.Visible = false;
             // 
-            // cmbUnit
+            // label15
             // 
-            this.cmbUnit.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.cmbUnit.FormattingEnabled = true;
-            this.cmbUnit.Location = new System.Drawing.Point(115, 155);
-            this.cmbUnit.Name = "cmbUnit";
-            this.cmbUnit.Size = new System.Drawing.Size(190, 28);
-            this.cmbUnit.TabIndex = 3;
-            this.cmbUnit.SelectedIndexChanged += new System.EventHandler(this.cmbUnit_SelectedIndexChanged);
-            this.cmbUnit.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtProductName_KeyDown);
+            this.label15.AutoSize = true;
+            this.label15.BackColor = System.Drawing.Color.Transparent;
+            this.label15.Location = new System.Drawing.Point(324, 238);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(76, 20);
+            this.label15.TabIndex = 42;
+            this.label15.Text = "Packaging";
+            // 
+            // txtPackaging
+            // 
+            this.txtPackaging.Location = new System.Drawing.Point(401, 235);
+            this.txtPackaging.Name = "txtPackaging";
+            this.txtPackaging.Size = new System.Drawing.Size(196, 27);
+            this.txtPackaging.TabIndex = 4;
+            this.txtPackaging.Text = "0";
+            this.txtPackaging.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtProductName_KeyDown);
             // 
             // label6
             // 
             this.label6.AutoSize = true;
             this.label6.BackColor = System.Drawing.Color.Transparent;
-            this.label6.Location = new System.Drawing.Point(9, 168);
+            this.label6.Location = new System.Drawing.Point(54, 238);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(36, 20);
             this.label6.TabIndex = 40;
             this.label6.Text = "Unit";
             // 
-            // txtPackaging
+            // cmbUnit
             // 
-            this.txtPackaging.Location = new System.Drawing.Point(428, 155);
-            this.txtPackaging.Name = "txtPackaging";
-            this.txtPackaging.Size = new System.Drawing.Size(169, 27);
-            this.txtPackaging.TabIndex = 4;
-            this.txtPackaging.Text = "0";
-            this.txtPackaging.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtProductName_KeyDown);
-            // 
-            // label15
-            // 
-            this.label15.AutoSize = true;
-            this.label15.BackColor = System.Drawing.Color.Transparent;
-            this.label15.Location = new System.Drawing.Point(346, 159);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(76, 20);
-            this.label15.TabIndex = 42;
-            this.label15.Text = "Packaging";
+            this.cmbUnit.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbUnit.FormattingEnabled = true;
+            this.cmbUnit.Location = new System.Drawing.Point(115, 230);
+            this.cmbUnit.Name = "cmbUnit";
+            this.cmbUnit.Size = new System.Drawing.Size(190, 28);
+            this.cmbUnit.TabIndex = 3;
+            this.cmbUnit.SelectedIndexChanged += new System.EventHandler(this.cmbUnit_SelectedIndexChanged);
+            this.cmbUnit.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtProductName_KeyDown);
             // 
             // frmProduct
             // 
@@ -685,21 +686,17 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
             this.ClientSize = new System.Drawing.Size(1055, 468);
-            this.Controls.Add(this.txtPackaging);
             this.Controls.Add(this.label15);
             this.Controls.Add(this.cmbUnit);
-            this.Controls.Add(this.label6);
+            this.Controls.Add(this.txtPackaging);
             this.Controls.Add(this.groupBox2);
-            this.Controls.Add(this.cmbStockLocation);
             this.Controls.Add(this.lblFirst);
-            this.Controls.Add(this.label13);
             this.Controls.Add(this.lblCurrent);
+            this.Controls.Add(this.label6);
             this.Controls.Add(this.lblLast);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.txtSaleRate);
             this.Controls.Add(this.label8);
-            this.Controls.Add(this.txtStock);
-            this.Controls.Add(this.label9);
             this.Controls.Add(this.txtPurchaseRate);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.cmbCetegory);

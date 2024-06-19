@@ -51,6 +51,8 @@
             this.addFieldToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.createExpenseHeadToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.dgvViewExpense = new System.Windows.Forms.DataGridView();
+            this.txtTotalExp = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
             this.groupBox2.SuspendLayout();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvViewExpense)).BeginInit();
@@ -255,7 +257,7 @@
             // 
             this.txttotal.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.txttotal.Enabled = false;
-            this.txttotal.Location = new System.Drawing.Point(608, 562);
+            this.txttotal.Location = new System.Drawing.Point(608, 587);
             this.txttotal.Name = "txttotal";
             this.txttotal.Size = new System.Drawing.Size(258, 27);
             this.txttotal.TabIndex = 27;
@@ -266,7 +268,7 @@
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.Color.Transparent;
             this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(507, 569);
+            this.label3.Location = new System.Drawing.Point(507, 594);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(99, 20);
             this.label3.TabIndex = 28;
@@ -313,15 +315,36 @@
             this.dgvViewExpense.ReadOnly = true;
             this.dgvViewExpense.RowHeadersWidth = 62;
             this.dgvViewExpense.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgvViewExpense.Size = new System.Drawing.Size(854, 168);
+            this.dgvViewExpense.Size = new System.Drawing.Size(854, 170);
             this.dgvViewExpense.TabIndex = 30;
             this.dgvViewExpense.DoubleClick += new System.EventHandler(this.dgvViewExpense_DoubleClick);
+            // 
+            // txtTotalExp
+            // 
+            this.txtTotalExp.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.txtTotalExp.Location = new System.Drawing.Point(726, 479);
+            this.txtTotalExp.Name = "txtTotalExp";
+            this.txtTotalExp.Size = new System.Drawing.Size(140, 27);
+            this.txtTotalExp.TabIndex = 62;
+            // 
+            // label4
+            // 
+            this.label4.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.label4.AutoSize = true;
+            this.label4.ForeColor = System.Drawing.Color.Black;
+            this.label4.Location = new System.Drawing.Point(678, 482);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(42, 20);
+            this.label4.TabIndex = 63;
+            this.label4.Text = "Total";
             // 
             // frmCreateExpense
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(878, 483);
+            this.ClientSize = new System.Drawing.Size(878, 508);
+            this.Controls.Add(this.txtTotalExp);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.dgvViewExpense);
             this.Controls.Add(this.txttotal);
             this.Controls.Add(this.label3);
@@ -368,5 +391,7 @@
         private System.Windows.Forms.DataGridView dgvViewExpense;
         private System.Windows.Forms.Label lblBalance;
         private System.Windows.Forms.Label label22;
+        private System.Windows.Forms.TextBox txtTotalExp;
+        private System.Windows.Forms.Label label4;
     }
 }
